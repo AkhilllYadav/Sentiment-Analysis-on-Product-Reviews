@@ -80,7 +80,8 @@ The notebook summarizes and compares the performance of all models, including ac
 
 ## License
 
-This project is licensed under the BSD 3-Clause License. See [LICENSE](LICENSE) for details.
+
+
 
 ---
 
